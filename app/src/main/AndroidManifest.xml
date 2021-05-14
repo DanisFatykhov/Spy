@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_spy_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <receiver
+            android:name=".TimerExpiredReceiver"
+            android:enabled="true"
+            android:exported="false"></receiver>
+
         <activity android:name=".RolesActivity2" />
         <activity android:name=".RolesActivity" />
         <activity android:name=".TimerActivity" />

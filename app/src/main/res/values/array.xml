@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places_roles_1">
+        <item>В Уфе</item>
+        <item>В туалете</item>
+        <item>В кирпичном доме</item>
+        <item>В норе</item>
+        <item>В холодильнике</item>
+        <item>В Швейцарии</item>
+        <item>В шоколаде</item>
+        <item>В байкерском баре</item>
+        <item>В надежных руках</item>
+        <item>В школе</item>
+        <item>В посольстве</item>
+        <item>В Америке</item>
+        <item>На балконе</item>
+        <item>В Колезее</item>
+        <item>На авиабазе</item>
+        <item>На каникулах</item>
+        <item>На азиатском рынке</item>
+        <item>На острове</item>
+        <item>В лесу</item>
+        <item>На Кубе</item>
+        <item>В космосе</item>
+        <item>На ринге</item>
+        <item>В YouTube</item>
+        <item>В джаз клубе</item>
+        <item>На дискотеке</item>
+        <item>На набережной</item>
+        <item>В ванной</item>
+        <item>В деревне</item>
+        <item>В диких джунглях</item>
+        <item>На северном полюсе</item>
+        <item>Во Франции</item>
+        <item>В море</item>
+        <item>В баре</item>
+        <item>В плену у немцев</item>
+        <item>В пионерском лагере</item>
+        <item>На войне</item>
+        <item>В Сирии</item>
+        <item>На даче</item>
+        <item>В саду</item>
+        <item>В самолете</item>
+        <item>На болоте</item>
+        <item>На луне</item>
+        <item>На рынке</item>
+        <item>На рифах</item>
+        <item>Под водой</item>
+        <item>На дне океана</item>
+        <item>На Титанике</item>
+        <item>На шоу Лучше всех</item>
+        <item>На шоу Давай поженимся</item>
+        <item>На карантине</item>
+        <item>На Эвересте</item>
+    </string-array>
+
+    <string-array name="places_roles_2_1">
+        <item>В Беларуси</item>
+        <item>В каменном веке</item>
+        <item>В норе крота</item>
+        <item>В кормане</item>
+        <item>В холодильнике</item>
+        <item>В Швейцарии</item>
+        <item>В шоколаде</item>
+        <item>В ночном клубе</item>
+        <item>В Турции</item>
+        <item>В университете</item>
+        <item>В яме</item>
+        <item>На даче</item>
+        <item>В церкви</item>
+        <item>На сцене</item>
+        <item>В аэропорту</item>
+        <item>На каникулах</item>
+        <item>В диких джунглях</item>
+        <item>В индийском фильме</item>
+        <item>На острове</item>
+        <item>В Китае</item>
+        <item>В море</item>
+        <item>В космосе</item>
+        <item>На ринге</item>
+        <item>В YouTube</item>
+        <item>На карантине</item>
+        <item>В джаз клубе</item>
+        <item>На дискотеке</item>
+        <item>На китайской стене</item>
+        <item>У водопада</item>
+        <item>В плену у испанцев</item>
+        <item>В королевском дворце</item>
+        <item>На свадьбе друга</item>
+        <item>На мосту</item>
+        <item>В музее</item>
+        <item>В театре</item>
+        <item>В библиотеке</item>
+        <item>В подъезде</item>
+        <item>На Марсе</item>
+        <item>В Колизее</item>
+        <item>В армии</item>
+        <item>В Голливуде</item>
+        <item>На крыше</item>
+        <item>На корабле</item>
+        <item>В приемной</item>
+        <item>В Диснейленде</item>
+        <item>В кино</item>
+        <item>В парке</item>
+        <item>В Африке</item>
+        <item>На южном полюсе</item>
+        <item>На Кавказе</item>
+        <item>У бабушки в деревне</item>
+    </string-array>
+
+    <string-array name="places_roles_2_2">
+        <item>На набережной</item>
+        <item>В ванной</item>
+        <item>В деревне</item>
+        <item>В диких джунглях</item>
+        <item>На северном полюсе</item>
+        <item>Во Франции</item>
+        <item>На Кубе</item>
+        <item>В баре</item>
+        <item>В плену у немцев</item>
+        <item>В пионерском лагере</item>
+        <item>На войне</item>
+        <item>В Сирии</item>
+        <item>В Мексике</item>
+        <item>В саду</item>
+        <item>В самолете</item>
+        <item>На болоте</item>
+        <item>На Луне</item>
+        <item>На рынке</item>
+        <item>На рифах</item>
+        <item>Под водой</item>
+        <item>На дне океана</item>
+        <item>На Титанике</item>
+        <item>На шоу лучше всех</item>
+        <item>На шоу давай поженимся</item>
+        <item>У сцены</item>
+        <item>На площади</item>
+        <item>В подвале</item>
+        <item>В оперном театре</item>
+        <item>На рок концерте</item>
+        <item>На авиабазе</item>
+        <item>На Эвересте</item>
+        <item>В Лувре</item>
+        <item>В видеоигре</item>
+        <item>В анатомичеком парке</item>
+        <item>В лесу</item>
+        <item>В Англии</item>
+        <item>В спортзале</item>
+        <item>На орбите Земли</item>
+        <item>На кружке рукоделия</item>
+        <item>В пещере</item>
+        <item>На задней парте</item>
+        <item>На заводе</item>
+        <item>В фильме ужасов</item>
+        <item>В Нарнии</item>
+        <item>В ботаническом саду</item>
+        <item>В средневековье</item>
+        <item>В ЖЭУ</item>
+        <item>На инопланетном корабле</item>
+        <item>В суде</item>
+        <item>В тюрьме</item>
+        <item>В бункере</item>
+
+    </string-array>
+
+</resources>
